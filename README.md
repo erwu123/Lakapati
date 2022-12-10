@@ -1,12 +1,7 @@
 # LAKAPATI - Corn Disease Classifier with Mitigation System using Neural Network
 Author: Erwin Bonto and Samantha Louise Aldaba
 ## Introduction
-You can edit this whole README file to introduce your project.
-
-To edit, you can:
-1. on the upper right of README.md here, click the pencil icon.
-2. Make sure to check "commit directly to the master branch"
-3. Then Commit Changes green button
+LAKAPATI aims to help farmers and researchers to mitigate the loss of crops with the use of Computer Vision and Deep Learning algorithms. Convolutional neural network (CNN) is used in the application to classify the condition of the crops. Along with class activation mapping, this enables localizing and generating the heatmap of the affected areas. The layers of the networks will be trained along with the PlantVillage dataset (Hughes, et al., 2015) as a basis for identifying the disease of the corn crops. The application contains four functionalities that will be useful to the users. The functionality of the application contains an image uploader, a Disease wiki, Displaying heatmap and processed image, and a Disease classifier. The image uploader enables the user to upload the image of the corn crops. The disease wiki contains a database of information regarding the condition of the corn crops and the approach to deal with it. The disease classifier determines the condition or the disease of the crops with the help of CNN.
 
 Upload all your source codes here (mlapp, m files, photos, and all files to make it work).
 
