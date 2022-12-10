@@ -1,5 +1,5 @@
-# LAKAPATI
-Author: Your Full Name (s)
+# LAKAPATI - Corn Disease Classifier with Mitigation System using Neural Network
+Author: Erwin Bonto and Samantha Louise Aldaba
 ## Introduction
 You can edit this whole README file to introduce your project.
 
