@@ -24,7 +24,7 @@ you can upload it in Google Drive / YouTube, then add the link in this README. Y
 
 - Alternatively, if you're adventurous, you can edit this README and add the procedures here.
 - In order to add photo, just put the folder in assets folder, and edit this README to checkout what I did below:
-![dlsu](assets/dlsu.JPG)
+![model training](trainedmodel/D.png)
 
 - for more tricks and tips, just google markdown cheatsheet. 
 
