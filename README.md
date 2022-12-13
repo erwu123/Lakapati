@@ -13,7 +13,7 @@ GoogLeNet architecture is used as a backbone for the network that will be used f
 - I've given you [report.docx](report.docx) so that you have a template. Please download and edit it.
 
 - You can optionally add a video walkthrough so that you could improve the clarity of your submission. To do so,
-you can upload it in Google Drive / YouTube, then add the link in this README. You can do it by editing this link here: [project link](https://youtu.be/VQKMoT-6XSg)
+you can upload it in Google Drive / YouTube, then add the link in this README. You can do it by editing this link here: [project link](https://drive.google.com/file/d/1HPyLru3wR9foWsesM8nW98ornhYUCfnk/view?usp=share_link)
      - If it's Google Drive, Make sure I have a view access (i.e. De La Salle University, Anyone with the link can view)
      - If it's Youtube, Make sure to keep it unlisted. You can opt to make it public after grade consultation day
 
