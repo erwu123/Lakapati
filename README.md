@@ -8,6 +8,10 @@ GoogLeNet architecture is used as a backbone for the network that will be used f
 ![Model training](trainedmodel/D.png)
 ![Confusion Matrix](trainedmodel/D.confmatrix.png)
 
+## Supplementary Documents
+Link to the walkthrough video:
+[Walkthrough](https://drive.google.com/file/d/1HPyLru3wR9foWsesM8nW98ornhYUCfnk/view?usp=share_link)
+
 ## Submission Procedure
 - In this repository, please upload a `report.pdf` that shows the step-by-step procedure in order to present the functionalities you've written in the Functionalities Section. (Note: Please add step-by-step screenshots).
 - I've given you [report.docx](report.docx) so that you have a template. Please download and edit it.
